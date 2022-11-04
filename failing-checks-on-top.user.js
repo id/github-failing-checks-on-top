@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Put failing checks in Github PR on top
 // @version     1.0.0
-// @description A userscript that sorts PR checks
+// @description A userscript that sorts Github PR checks
 // @author      Ivan Dyachkov
 // @namespace   https://github.com/id
 // @include     https://github.com/*/*/pull/*

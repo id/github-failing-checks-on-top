@@ -7,4 +7,4 @@ To install, first install either of these:
 * [Violentmonkey](https://violentmonkey.github.io/get-it/)
 * [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 
-then click on failing-checks-on-top.user.js.
+then click on failing-checks-on-top.user.js, click on "Raw" button, and click "Install" in the popup window.
